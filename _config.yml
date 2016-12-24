@@ -3,7 +3,7 @@ description: Welcome to Marco's GitHub Pages.
 google_analytics: false
 show_downloads: true
 encoding: utf-8
-markdown: markdown
+#markdown: markdown
 theme: jekyll-theme-minimal
 
 gems:
