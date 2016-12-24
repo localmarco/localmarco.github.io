@@ -3,20 +3,20 @@
 
 ### Repositories 
 
-> [Pirates][https://github.com/localmarco/Pirates] 出发吧.海盗...
-> [Learn-Algorithm][https://github.com/localmarco/Learn-Algorithm] 拖延症治疗小队.(从拖延到放弃.)
-> [Tushare][https://github.com/localmarco/tushare] 一个Python的股票数据库.
+> [[Pirates](https://github.com/localmarco/Pirates)] 出发吧.海盗...  
+> [[Learn-Algorithm](https://github.com/localmarco/Learn-Algorithm)] 拖延症治疗小队.(从拖延到放弃.)  
+> [[Tushare](https://github.com/localmarco/tushare)] 一个Python的股票数据库.  
 
 
 ### Tasks
-- **Python**
-一直在弄.就是不成气候...
-- **Localmarco.github.io**
-  看来要经常写写了.
-- **代码笔记整理**
-  #TODO...(摔
-- **微信开发**
-  Oh yes.I need money...
+- **Python**  
+一直在弄.就是不成气候...  
+- **Localmarco.github.io**  
+看来要经常写写了.  
+- **代码笔记整理**  
+\#TODO...(摔  
+- **微信开发**  
+Oh yes.I need money...  
 
 ### About me
   This is a Loser..
