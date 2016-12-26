@@ -3,8 +3,8 @@
 
 ### Repositories 
 
-[[Pirates](https://github.com/localmarco/Pirates)] 出发吧.海盗...  
-[[Learn-Algorithm](https://github.com/localmarco/Learn-Algorithm)] 拖延症治疗小队.(从拖延到放弃.)  
+[[Pirates](https://github.com/localmarco/Pirates)] Zoomeyes Api  
+[[Learn-Algorithm](https://github.com/localmarco/Learn-Algorithm)] 拖延症治疗小队.从拖延到放弃...(摔...  
 [[Tushare](https://github.com/localmarco/tushare)] 一个Python的股票数据库.  
 
 
