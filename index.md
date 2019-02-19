@@ -2,12 +2,16 @@
 
 ### Repositories 
 
-[[Pirates](https://github.com/localmarco/Pirates)]
+[[Pirates](https://github.com/localmarco/Pirates)]  
 ZoomEye开放时做的查询SDK.Python版本是自己写的.另外一个是朋友写的...
 
-[[CodeFragment](https://github.com/localmarco/CodeFragment)]打算存放一些代码片段.  
+[[CodeFragment](https://github.com/localmarco/CodeFragment)]  
+打算存放一些代码片段.  
 现在暂时有的:  
-- **AutoLoad** 一个python的自动加载插件框架.
+- [x] **AutoLoad** 一个python的自动加载插件框架.
+
+[[Esp32_M](https://github.com/localmarco/Esp32_M)]  
+2019年过年手术在家没事写着玩的.接上了原来开发剩下的一个OLED显示屏.打算整一个用网页控制的打飞机游戏在上面.顺便熟悉一下ESP32平台.
 
 ### Tasks
 - **Python**  
